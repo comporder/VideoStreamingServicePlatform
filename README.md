@@ -1,4 +1,6 @@
 #VideoStreamingServicePlatform
+
+
 This project is a Java program that simulates the basic functions of a video streaming platform. It uses classes and objects to represent elements such as users, content, and a list of watched content.
 
 At the beginning of the project, a StreamingPlatform object is created. Then, users (Viewers) and content (Content) are created and added to the platform. The content includes types like movies (Movie) and series (Series). Series types can contain seasons (Season) and episodes.
